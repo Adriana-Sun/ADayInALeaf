@@ -14,7 +14,7 @@ public class Background extends HomeScreen
     @Override
     public void draw()
     {
-        StdDraw.setPenColor(140, 221, 255);
+        StdDraw.setPenColor(141, 221, 255);
         StdDraw.filledRectangle(250,250,250,250);
     }
 }
